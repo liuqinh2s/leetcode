@@ -31,10 +31,13 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": ["disqus"],
+    "plugins": ["disqus","github"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "introducetogitbook"
+        },
+        "github": {
+          "url": "https://github.com/liuqinh2s/leetcode"
         }
     },
     "title": "leetcode讲解",
