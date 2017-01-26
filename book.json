@@ -34,7 +34,7 @@
     "plugins": ["disqus","github"],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "introducetogitbook"
+            "shortName": "liuqinh2s-leetcode"
         },
         "github": {
           "url": "https://github.com/liuqinh2s/leetcode"
