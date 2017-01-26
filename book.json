@@ -13,6 +13,7 @@
             "weibo": null
         },
         "sidebar": {
+            "About me": "https://liuqinh2s.github.io/about",
             "Liuqinh2s' Homepage": "https://liuqinh2s.github.io"
         }
     },
@@ -30,7 +31,12 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": [],
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "introducetogitbook"
+        }
+    },
     "title": "leetcode讲解",
     "variables": {}
 }
