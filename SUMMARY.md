@@ -16,7 +16,6 @@
         * [206. Reverse Linked List](中文版/第一遍/206. Reverse Linked List.md)
         * [378. Kth Smallest Element in a Sorted Matrix](中文版/第一遍/378. Kth Smallest Element in a Sorted Matrix.md)
         * [486. Predict the Winner](中文版/第一遍/486. Predict the Winner.md)
-        * [百度贴吧ID挖掘机](中文版/第一遍/2017-1-12-百度贴吧ID挖掘机.md)
     * [第二遍，按算法体系总结](中文版/第二遍/README.md)
 * [English Version](English Version/README.md)
     * [First，according to acception rate](English Version/First/README.md)
