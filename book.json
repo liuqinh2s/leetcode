@@ -1,0 +1,36 @@
+{
+    "author": "liuqinh2s <liuqinh2s@gmail.com>",
+    "description": "This is leetcode solutions.",
+    "extension": null,
+    "generator": "site",
+    "isbn": null,
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "Liuqinh2s' Homepage": "https://liuqinh2s.github.io"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [],
+    "title": "leetcode讲解",
+    "variables": {}
+}
