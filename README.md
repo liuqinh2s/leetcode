@@ -5,7 +5,7 @@ leetcode是一个 Online Judge 网站，在线练习编程，尤其是练习数�
 
 刷OJ对于锻炼自己的计算机思维，算法能力，以及coding能力都是非常有帮助的。
 
-这份gitbook电子书，将提供leetcode上 **所有免费题目的答案**，答案涵盖leetcode所提供的 **所有语言**，并提供 **详细的解答思路**。
+这份gitbook电子书，将提供leetcode上 **所有免费题目的答案**，并提供 **详细的解答思路**，所使用的编程语言有：**Python、C++、Java、JavaScript、C#、Swift、Go、Ruby**（不使用C语言，因为C语言连基本的数据结构都要自己造轮子）。
 
 **几点小建议**：
 
@@ -15,7 +15,7 @@ leetcode是一个 Online Judge 网站，在线练习编程，尤其是练习数�
 
 **本教程打算分两步走**：
 
-1. 第一步把每道题的讲解和代码（提供全语言）贴出来
+1. 第一步把每道题的讲解和代码贴出来
 2. 第二步，做个总结，按照算法体系把有价值的题归纳总结、举一反三，得出一些有价值的思考和结论。
 
 本gitbook的github仓库：[leetcode讲解](https://github.com/liuqinh2s/leetcode)
@@ -25,3 +25,9 @@ leetcode是一个 Online Judge 网站，在线练习编程，尤其是练习数�
 关于作者：
 
 - [liuqinh2s的个人主页](https://liuqinh2s.github.io/about)
+
+参考：
+
+- [书影博客](http://bookshadow.com/)
+- [细语呢喃- 技术改变生活](https://www.hrwhisper.me/)
+- leetcode自带的答案讨论区
