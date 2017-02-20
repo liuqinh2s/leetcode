@@ -5,7 +5,7 @@ leetcode是一个 Online Judge 网站，在线练习编程，尤其是练习数�
 
 刷OJ对于锻炼自己的计算机思维，算法能力，以及coding能力都是非常有帮助的。
 
-这份gitbook电子书，将提供leetcode上 **所有免费题目的答案**，并提供 **详细的解答思路**，所使用的编程语言有：**Python、C++、Java、JavaScript、C#、Swift、Go、Ruby**（不使用C语言，因为C语言连基本的数据结构都要自己造轮子）。
+这份gitbook电子书，将提供leetcode上 **所有免费题目的答案**，并提供 **详细的解答思路**，所使用的编程语言有：**Python、C++、Java**。
 
 **几点小建议**：
 
