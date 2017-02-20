@@ -26,7 +26,7 @@ leetcode是一个 Online Judge 网站，在线练习编程，尤其是练习数�
 
 - [liuqinh2s的个人主页](https://liuqinh2s.github.io/about)
 
-参考：
+参考(实际上参考了很多网络上的资料，如果您觉得其中有您的工作成果，请私信我并指明出处)：
 
 - [书影博客](http://bookshadow.com/)
 - [细语呢喃- 技术改变生活](https://www.hrwhisper.me/)
