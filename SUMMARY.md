@@ -18,6 +18,7 @@
         * [486. Predict the Winner](中文版/第一遍/486. Predict the Winner.md)
         * [447. Number of Boomerangs](中文版/第一遍/447. Number of Boomerangs.md)
         * [12. Integer to Roman.md](中文版/第一遍/12. Integer to Roman.md)
+        * [535. Encode and Decode TinyURL](中文版/第一遍/535. Encode and Decode TinyURL)
     * [第二遍，按算法体系总结](中文版/第二遍/README.md)
 * [English Version](English Version/README.md)
     * [First，according to acception rate](English Version/First/README.md)
