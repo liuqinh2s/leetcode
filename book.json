@@ -31,7 +31,14 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": ["disqus","github"],
+    "plugins": [
+        "disqus",
+        "github",
+        "expandable-chapters-small",
+        "katex",
+        "anchors",
+        "sitemap"
+    ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "liuqinh2s-leetcode"
