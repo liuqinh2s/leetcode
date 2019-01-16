@@ -92,6 +92,7 @@
     * [959. Regions Cut By Slashes](中文版/第一遍/959. Regions Cut By Slashes.md)
     * [961. N-Repeated Element in Size 2N Array](中文版/第一遍/961. N-Repeated Element in Size 2N Array.md)
     * [973. K Closest Points to Origin](中文版/第一遍/973. K Closest Points to Origin.md)
+    * [976. Largest Perimeter Triangle](中文版/第一遍/976. Largest Perimeter Triangle.md)
   * [第二遍，按算法体系总结](中文版/第二遍/README.md)
 * [English Version](English Version/README.md)
   * [First，according to acception rate](English Version/First/README.md)
