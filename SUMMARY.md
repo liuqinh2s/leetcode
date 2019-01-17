@@ -94,6 +94,7 @@
     * [973. K Closest Points to Origin](中文版/第一遍/973. K Closest Points to Origin.md)
     * [976. Largest Perimeter Triangle](中文版/第一遍/976. Largest Perimeter Triangle.md)
     * [784. Letter Case Permutation](中文版/第一遍/784. Letter Case Permutation.md)
+    * [896. Monotonic Array](中文版/第一遍/896. Monotonic Array.md)
   * [第二遍，按算法体系总结](中文版/第二遍/README.md)
 * [English Version](English Version/README.md)
   * [First，according to acception rate](English Version/First/README.md)
