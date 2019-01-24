@@ -1,2 +1,0 @@
-# Second, according to algorithm
-
