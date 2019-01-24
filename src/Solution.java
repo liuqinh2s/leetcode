@@ -2,33 +2,29 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Solution {
-    private int result=0;
-    private Map<TreeNode, Integer> map = new HashMap<>();
-    public int distributeCoins(TreeNode root) {
-        if(root==null){
+    private List<Integer> result = new ArrayList<>();
+    public List<Integer> pancakeSort(int[] A) {
+        if(A.length<=1){
             return result;
         }
-        result = Math.abs(need(root.left))+Math.abs(need(root.right));
-        distributeCoins(root.left);
-        distributeCoins(root.right);
-        return result;
+        int index = 0;
+        int min = A[index];
+        for(int i=0;i<A.length;i++){
+            if(min>A[0]){
+                index = i;
+            }
+        }
+        ArrayUtils.reverse(A);
+        return null;
+//        pancakeSort(int[] A, 1);
     }
 
-    private int need(TreeNode node){
-        if(node==null){
-            return 0;
-        }
-        if(map.get(node)!=null){
-            return map.get(node);
-        }
-        int needs = 1-node.val+need(node.left)+need(node.right);
-        map.put(node, needs);
-        return needs;
+    private void pancakeSort(int[] A, int index){
+
     }
 
     public static void main(String[] args) {
-        int[][] grid = {{1,0,0,0},{0,0,0,0},{0,0,2,-1}};
         Solution solution = new Solution();
-        System.out.println(solution.uniquePathsIII(grid));
+        System.out.println(solution.pancakeSort(grid));
     }
 }
