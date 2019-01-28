@@ -45,6 +45,9 @@
         },
         "github": {
           "url": "https://github.com/liuqinh2s/leetcode"
+        },
+        "sitemap": {
+            "hostname": "https://liuqinh2s.gitbooks.io/leetcode/"
         }
     },
     "title": "leetcode讲解",
