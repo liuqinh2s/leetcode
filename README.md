@@ -1,4 +1,3 @@
-
 ## leetcode讲解
 
 leetcode是一个 Online Judge 网站，在线练习编程，尤其是练习数据结构和算法相关的题。
@@ -24,6 +23,7 @@ leetcode是一个 Online Judge 网站，在线练习编程，尤其是练习数�
 
 关于作者：
 
-- [liuqinh2s的个人主页](https://liuqinh2s.github.io/blog/about)
+* [liuqinh2s的个人主页](https://liuqinh2s.github.io/blog/about)
 
-参考(实际上参考了很多网络上的资料，如果您觉得其中有您的工作成果，请私信我并指明出处)
+参考\(实际上参考了很多网络上的资料，如果您觉得其中有您的工作成果，请私信我并指明出处\)
+
