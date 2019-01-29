@@ -106,4 +106,5 @@
     * [977. Squares of a Sorted Array](第一遍/977. Squares of a Sorted Array.md)
     * [979. Distribute Coins in Binary Tree](第一遍/979. Distribute Coins in Binary Tree.md)
     * [980. Unique Paths III](第一遍/980. Unique Paths III.md)
+    * [983. Minimum Cost For Tickets](第一遍/983. Minimum Cost For Tickets.md)
   * [第二遍，按算法体系总结](第二遍/README.md)
