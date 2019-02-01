@@ -24,6 +24,7 @@
     * [509. Fibonacci Number](第一遍/509. Fibonacci Number.md)
     * [513. Find Bottom Left Tree Value](第一遍/513. Find Bottom Left Tree Value.md)
     * [515. Find Largest Value in Each Tree Row](第一遍/515. Find Largest Value in Each Tree Row.md)
+    * [526. Beautiful Arrangement](第一遍/526. Beautiful Arrangement.md)
     * [535. Encode and Decode TinyURL](第一遍/535. Encode and Decode TinyURL.md)
     * [540. Single Element in a Sorted Array](第一遍/540. Single Element in a Sorted Array.md)
     * [559. Maximum Depth of N-ary Tree](第一遍/559. Maximum Depth of N-ary Tree.md)
