@@ -15,6 +15,7 @@
     * [392. Is Subsequence](第一遍/392. Is Subsequence.md)
     * [401. Binary Watch](第一遍/401. Binary Watch.md)
     * [409. Longest Palindrome](第一遍/409. Longest Palindrome.md)
+    * [427. Construct Quad Tree](第一遍/427. Construct Quad Tree.md)
     * [429. N-ary Tree Level Order Traversal](第一遍/429. N-ary Tree Level Order Traversal.md)
     * [447. Number of Boomerangs](第一遍/447. Number of Boomerangs.md)
     * [485. Max Consecutive Ones](第一遍/485. Max Consecutive Ones.md)
