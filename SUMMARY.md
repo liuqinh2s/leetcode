@@ -100,6 +100,7 @@
     * [942. DI String Match](第一遍/942. DI String Match.md)
     * [944. Delete Columns to Make Sorted](第一遍/944. Delete Columns to Make Sorted.md)
     * [946. Validate Stack Sequences](第一遍/946. Validate Stack Sequences.md)
+    * [947. Most Stones Removed with Same Row or Column](第一遍/947. Most Stones Removed with Same Row or Column.md)
     * [950. Reveal Cards In Increasing Order](第一遍/950. Reveal Cards In Increasing Order.md)
     * [951. Flip Equivalent Binary Trees](第一遍/951. Flip Equivalent Binary Trees.md)
     * [953. Verifying an Alien Dictionary](第一遍/953. Verifying an Alien Dictionary.md)
